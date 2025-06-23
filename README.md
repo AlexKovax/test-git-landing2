@@ -2,4 +2,4 @@
 
 ## Documentation technique
 
-Todo...
+Projet en HTML et CSS avec le framework VITE
