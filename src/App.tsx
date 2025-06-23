@@ -104,7 +104,7 @@ function App() {
           <div className="flex items-center space-x-2">
             <GitBranch className="w-8 h-8 text-violet-600" />
             <span className="text-2xl font-bold bg-gradient-to-r from-violet-600 to-blue-600 bg-clip-text text-transparent">
-              GitMaster
+              Gitmaster
             </span>
           </div>
           <button className="bg-gradient-to-r from-violet-600 to-blue-600 text-white px-6 py-2 rounded-full hover:shadow-lg transition-all duration-300 transform hover:scale-105">
