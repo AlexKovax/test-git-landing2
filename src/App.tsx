@@ -263,7 +263,7 @@ function App() {
                 <div className="bg-white p-4 rounded-xl shadow-sm">
                   <h4 className="font-bold text-gray-800 mb-2 flex items-center">
                     <span className="text-2xl mr-2">💻</span>
-                    Qu'est-ce que c'est ?
+                    Qu'est-ce que c\'est ?
                   </h4>
                   <p className="text-gray-600">
                     Un logiciel qui suit les modifications de vos fichiers au fil du temps. 
@@ -303,7 +303,7 @@ function App() {
                 <div className="bg-white p-4 rounded-xl shadow-sm">
                   <h4 className="font-bold text-gray-800 mb-2 flex items-center">
                     <span className="text-2xl mr-2">🌐</span>
-                    Qu'est-ce que c'est ?
+                    Qu'est-ce que c\'est ?
                   </h4>
                   <p className="text-gray-600">
                     Un service en ligne qui héberge vos projets Git et permet la collaboration. 
