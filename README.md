@@ -51,3 +51,7 @@ Dans le répertoire du projet, vous pouvez exécuter les commandes suivantes :
 *   [TypeScript](https://www.typescriptlang.org/) - JavaScript avec des types
 *   [Tailwind CSS](https://tailwindcss.com/) - Un framework CSS "utility-first"
 *   [Lucide React](https://lucide.dev/) - Une belle et cohérente boîte à outils d'icônes
+
+## 📄 Documentation Technique
+
+Pour une description détaillée de l'architecture du projet, des composants, de la configuration et des choix techniques, veuillez consulter notre [Documentation Technique](./TECHNICAL_DOCUMENTATION.md).
