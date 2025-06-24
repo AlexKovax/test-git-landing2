@@ -201,8 +201,8 @@ function App() {
             <span className="animate-pulse text-violet-600">|</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed font-medium">
-            Découvrez la puissance de Git et GitHub pour transformer votre façon de coder 
-            et collaborer sur vos projets ✨
+            Découvrez la puissance de Git pour transformer votre façon de coder 
+            et collaborer sur vos projets
           </p>
         </div>
         
