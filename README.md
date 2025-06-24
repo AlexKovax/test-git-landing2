@@ -1,4 +1,4 @@
-# GitMaster - Page de Destination
+# GitMaster - Page de Destination de la formation
 
 Une page de destination moderne et réactive construite avec Vite, React, TypeScript et Tailwind CSS pour promouvoir l'apprentissage de Git et GitHub.
 
